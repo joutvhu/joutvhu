@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+I'm a part time open source developer. :new_moon_with_face:
 
 <!--
 **joutvhu/joutvhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

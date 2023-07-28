@@ -158,6 +158,7 @@ I'm a part time open source developer. :new_moon_with_face:
   ![Git Stars](https://img.shields.io/github/stars/joutvhu/model-tester)
   ![Git Forks](https://img.shields.io/github/forks/joutvhu/model-tester)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+  ![Testing-Library](https://img.shields.io/badge/-TestingLibrary-%23E33332?logo=testing-library&logoColor=white)
 
 </details>
 

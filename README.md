@@ -4,7 +4,8 @@ I'm a part time open source developer. :new_moon_with_face:
 
 ### Open Sources
 
-#### Spring Dynamic Data
+<details>
+  <summary>Spring Dynamic Data</summary>
 
 - [spring-dynamic-commons](https://github.com/joutvhu/spring-dynamic-commons): Spring Dynamic Commons provides SQL Directives and Utils for other Spring Dynamic libraries
 
@@ -48,7 +49,10 @@ I'm a part time open source developer. :new_moon_with_face:
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)
   ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?logo=spring&logoColor=white)
 
-#### GitHub Actions
+</details>
+
+<details>
+  <summary>GitHub Actions</summary>
 
 - [get-release](https://github.com/joutvhu/get-release): GitHub Action to get release
 
@@ -100,7 +104,10 @@ I'm a part time open source developer. :new_moon_with_face:
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?logo=githubactions&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
 
-#### Java
+</details>
+
+<details>
+  <summary>Java Libraries</summary>
 
 - [fixed-width-parser](https://github.com/joutvhu/fixed-width-parser): Fixed Width Parser: parse fixed width string to object and export object to fixed width string
 
@@ -132,7 +139,10 @@ I'm a part time open source developer. :new_moon_with_face:
   ![Git Forks](https://img.shields.io/github/forks/joutvhu/model-tester)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)
 
-#### Dart
+</details>
+
+<details>
+  <summary>Dart Libraries</summary>
 
 - [number_text_input_formatter](https://github.com/joutvhu/number_text_input_formatter): Number Text Input Formatter for Flutter
 
@@ -156,7 +166,10 @@ I'm a part time open source developer. :new_moon_with_face:
   ![Git Forks](https://img.shields.io/github/forks/joutvhu/dioxide)
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white)
 
-#### JS / TS
+</details>
+
+<details>
+  <summary>JS / TS Libraries</summary>
 
 - [libheif-web](https://github.com/joutvhu/libheif-web): An emscripten build of libheif distributed as an npm module for the browser.
 
@@ -179,7 +192,10 @@ I'm a part time open source developer. :new_moon_with_face:
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
 
-#### Other
+</details>
+
+<details>
+  <summary>Other Libraries</summary>
 
 - [form-json](https://github.com/joutvhu/form-json): Support upload files with JSON data.
 
@@ -192,3 +208,5 @@ I'm a part time open source developer. :new_moon_with_face:
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white)
+
+</details>

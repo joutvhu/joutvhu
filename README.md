@@ -177,6 +177,7 @@ I'm a part time open source developer. :new_moon_with_face:
   ![Git Forks](https://img.shields.io/github/forks/joutvhu/libheif-web)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white)
 
 - [libjs-loader](https://github.com/joutvhu/libjs-loader): Provides a method for lazy loading of JS libraries in the browser.
 
@@ -184,6 +185,7 @@ I'm a part time open source developer. :new_moon_with_face:
   ![Git Forks](https://img.shields.io/github/forks/joutvhu/libjs-loader)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white)
 
 - [control-terminal](https://github.com/joutvhu/control-terminal): Control terminal cursor, screen and create string styling
 
@@ -191,6 +193,7 @@ I'm a part time open source developer. :new_moon_with_face:
   ![Git Forks](https://img.shields.io/github/forks/joutvhu/control-terminal)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white)
 
 </details>
 

@@ -107,7 +107,7 @@ I'm a part time open source developer. :new_moon_with_face:
   ![Git Forks](https://img.shields.io/github/forks/joutvhu/ftp-transfer)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?logo=githubactions&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
-  ![FTP](https://img.shields.io/badge/ftp-%23BF0000?logo=FileZilla&logoColor=white)
+  ![FTP](https://img.shields.io/badge/FTP-%23BF0000?logo=FileZilla&logoColor=white)
 
 </details>
 

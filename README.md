@@ -197,7 +197,7 @@ I'm a part time open source developer. :new_moon_with_face:
 <details>
   <summary>Other Libraries</summary>
 
-- [form-json](https://github.com/joutvhu/form-json): Support upload files with JSON data.
+- [form-json](https://github.com/joutvhu/form-json): Support for files upload with JSON data for Rest API
 
   ![Git Stars](https://img.shields.io/github/stars/joutvhu/form-json)
   ![Git Forks](https://img.shields.io/github/forks/joutvhu/form-json)

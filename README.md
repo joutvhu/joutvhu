@@ -107,6 +107,22 @@ I'm a part time open source developer. :new_moon_with_face:
 </details>
 
 <details>
+  <summary>IDE Plugins</summary>
+
+- [dart-scripts](https://github.com/joutvhu/dart-scripts): Dart Scripts Runner is an IntelliJ plugin to run scripts on pubspec.yaml for Dart projects
+
+  ![Git Stars](https://img.shields.io/github/stars/joutvhu/dart-scripts)
+  ![Git Forks](https://img.shields.io/github/forks/joutvhu/dart-scripts)
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
+  ![Downloads](https://img.shields.io/jetbrains/plugin/d/18726-dart-scripts-runner)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?logo=flutter&logoColor=white)
+
+</details>
+
+<details>
   <summary>Java Libraries</summary>
 
 - [fixed-width-parser](https://github.com/joutvhu/fixed-width-parser): Fixed Width Parser: parse fixed width string to object and export object to fixed width string

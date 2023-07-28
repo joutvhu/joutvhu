@@ -60,6 +60,7 @@ I'm a part time open source developer. :new_moon_with_face:
   ![Git Forks](https://img.shields.io/github/forks/joutvhu/get-release)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?logo=githubactions&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 
 - [create-release ](https://github.com/joutvhu/create-release): GitHub Action to create release
 
@@ -67,6 +68,7 @@ I'm a part time open source developer. :new_moon_with_face:
   ![Git Forks](https://img.shields.io/github/forks/joutvhu/create-release)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?logo=githubactions&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 
 - [create-tag](https://github.com/joutvhu/create-tag): GitHub Action to create tag
 
@@ -74,6 +76,7 @@ I'm a part time open source developer. :new_moon_with_face:
   ![Git Forks](https://img.shields.io/github/forks/joutvhu/create-tag)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?logo=githubactions&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 
 - [delete-artifact](https://github.com/joutvhu/delete-artifact): GitHub Action to delete artifacts
 
@@ -81,6 +84,7 @@ I'm a part time open source developer. :new_moon_with_face:
   ![Git Forks](https://img.shields.io/github/forks/joutvhu/delete-artifact)
   ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?logo=githubactions&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 
 - [write-file](https://github.com/joutvhu/write-file): GitHub Action to write file
 

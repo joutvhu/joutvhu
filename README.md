@@ -171,7 +171,7 @@ I'm a part time open source developer. :new_moon_with_face:
   ![Git Stars](https://img.shields.io/github/stars/joutvhu/number_text_input_formatter)
   ![Git Forks](https://img.shields.io/github/forks/joutvhu/number_text_input_formatter)
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white)
- ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?logo=flutter&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?logo=flutter&logoColor=white)
 
 - [open_file_plus](https://github.com/joutvhu/open_file_plus): A plug-in that can call native APP to open files with string result in flutter, support iOS(UTI) / android(intent) / PC(ffi) / web(dart:html)
 
@@ -187,6 +187,15 @@ I'm a part time open source developer. :new_moon_with_face:
   ![Git Stars](https://img.shields.io/github/stars/joutvhu/dioxide)
   ![Git Forks](https://img.shields.io/github/forks/joutvhu/dioxide)
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white)
+
+- [heif_converter](https://github.com/joutvhu/heif_converter): Flutter plugin to convert HEIC/HEIF file to PNG/JPEG image.
+
+  ![Git Stars](https://img.shields.io/github/stars/joutvhu/heif_converter)
+  ![Git Forks](https://img.shields.io/github/forks/joutvhu/heif_converter)
+  ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?logo=dart&logoColor=white)
+  ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?logo=flutter&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+  ![iOS](https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white)
 
 </details>
 

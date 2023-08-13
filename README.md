@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Giao
 
-I'm a full-stack software engineer and open-source software developer from Vietnam.
+I'm a full-stack software engineer and open-source developer from Vietnam.
 
 ### Open Source Projects
 
@@ -248,6 +248,4 @@ I'm a full-stack software engineer and open-source software developer from Vietn
 ### Support
 
 [![PayPal](https://www.paypalobjects.com/digitalassets/c/website/marketing/apac/C2/logos-buttons/optimize/34_Grey_PayPal_Pill_Button.png)](https://paypal.me/joutvhu)
-[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://buymeacoffee.com/joutvhu)
-
-
+[![Buy me a coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://buymeacoffee.com/joutvhu)

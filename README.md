@@ -109,7 +109,7 @@ I'm a full-stack software engineer and open-source developer from Vietnam.
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
   ![FTP](https://img.shields.io/badge/FTP-%23BF0000?logo=FileZilla&logoColor=white)
 
-- [upload-s3](https://github.com/joutvhu/upload-s3): GitHub Action to upload files to Amazon S3.
+- [upload-s3](https://github.com/joutvhu/upload-s3): GitHub Action to upload files to Amazon S3
 
   ![Git Stars](https://img.shields.io/github/stars/joutvhu/upload-s3)
   ![Git Forks](https://img.shields.io/github/forks/joutvhu/upload-s3)
@@ -117,7 +117,7 @@ I'm a full-stack software engineer and open-source developer from Vietnam.
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
   ![AWS S3](https://img.shields.io/badge/AWS%20S3-V9A31?logo=Amazon%20S3&logoColor=white)
 
-- [download-s3](https://github.com/joutvhu/download-s3): GitHub Action to download files from Amazon S3.
+- [download-s3](https://github.com/joutvhu/download-s3): GitHub Action to download files from Amazon S3
 
   ![Git Stars](https://img.shields.io/github/stars/joutvhu/download-s3)
   ![Git Forks](https://img.shields.io/github/forks/joutvhu/download-s3)

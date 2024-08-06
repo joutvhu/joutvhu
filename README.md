@@ -125,6 +125,14 @@ I'm a full-stack software engineer and open-source developer from Vietnam.
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
   ![AWS S3](https://img.shields.io/badge/AWS%20S3-V9A31?logo=Amazon%20S3&logoColor=white)
 
+- [intellij-format](https://github.com/joutvhu/intellij-format): GitHub Action for code formatting using IntelliJ IDEA
+
+  ![Git Stars](https://img.shields.io/github/stars/joutvhu/intellij-format)
+  ![Git Forks](https://img.shields.io/github/forks/joutvhu/intellij-format)
+  ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?logo=githubactions&logoColor=white)
+  ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?logo=docker&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/intellij-idea-%23000000.svg?logo=intellijidea&logoColor=white)
+
 </details>
 
 <details>

@@ -2,6 +2,29 @@
 
 I'm a full-stack software engineer and open-source developer from Vietnam.
 
+### AI Tools & Integrations
+
+<details>
+  <summary>AI Coding Assistants</summary>
+
+- [knowledge-shelf](https://github.com/joutvhu/knowledge-shelf): A personal knowledge management system for AI coding assistants, built as an MCP server. Store documentation, code patterns, templates, and workflows locally — AI pulls only what it needs, when it needs it.
+
+  ![Git Stars](https://img.shields.io/github/stars/joutvhu/knowledge-shelf)
+  ![Git Forks](https://img.shields.io/github/forks/joutvhu/knowledge-shelf)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?logo=typescript&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?logo=npm&logoColor=white)
+  ![MCP](https://img.shields.io/badge/MCP-server-%23000000?logo=anthropic&logoColor=white)
+
+- [kiro-antigravity-bridge](https://github.com/joutvhu/kiro-antigravity-bridge): A file-based communication bridge that enables two-way task delegation between Kiro and Antigravity.
+
+  ![Git Stars](https://img.shields.io/github/stars/joutvhu/kiro-antigravity-bridge)
+  ![Git Forks](https://img.shields.io/github/forks/joutvhu/kiro-antigravity-bridge)
+  ![Shell](https://img.shields.io/badge/shell_script-%23121011.svg?logo=gnu-bash&logoColor=white)
+  ![Kiro](https://img.shields.io/badge/Kiro-IDE-%230066CC?logoColor=white)
+  ![Antigravity](https://img.shields.io/badge/Antigravity-AI-%234285F4?logo=google&logoColor=white)
+
+</details>
+
 ### Open Source Projects
 
 <details>

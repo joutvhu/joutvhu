@@ -7,7 +7,7 @@
 
 [![GitHub Followers](https://img.shields.io/github/followers/joutvhu?label=Followers&style=flat-square&color=238636)](https://github.com/joutvhu)
 [![GitHub Stars](https://img.shields.io/github/stars/joutvhu?label=Stars&style=flat-square&color=e3b341)](https://github.com/joutvhu)
-[![Sponsor](https://img.shields.io/badge/Sponsor-PayPal%20%2F%20BMC-%23EA4AAA?style=flat-square)](#-support--sponsor)
+[![Sponsor](https://img.shields.io/badge/Sponsor-MoMo%20%2F%20PayPal%20%2F%20BMC-%23EA4AAA?style=flat-square)](#-support--sponsor)
 
 <p align="center">
   Passionate about designing high-performance developer tooling, enterprise backend frameworks, and AI infrastructure.<br>
@@ -299,6 +299,10 @@ A curated selection of highlighted open-source projects:
 If you find my open-source projects useful or have used them in your products, consider supporting my work:
 
 <p align="center">
+  <a href="https://me.momo.vn/aMI2TPsnsntwTpFGUMTNCX" target="_blank">
+    <img src="https://img.shields.io/badge/MoMo-A50064?style=for-the-badge&logo=momo&logoColor=white" alt="MoMo" />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://paypal.me/joutvhu" target="_blank">
     <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
   </a>

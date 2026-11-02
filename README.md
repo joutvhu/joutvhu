@@ -46,19 +46,26 @@ A curated selection of highlighted open-source projects:
 
 | Project | Description | Stack | Highlights |
 | :--- | :--- | :--- | :--- |
+| [**java-decompiler**](https://github.com/joutvhu/java-decompiler) | Universal & token-efficient Java bytecode decompiler, resource inspector, and MCP server for AI agents. | `Java` `MCP` `Bytecode` `CLI` `npm` | ![Stars](https://img.shields.io/github/stars/joutvhu/java-decompiler?style=flat-square) |
 | [**search-code-mcp**](https://github.com/joutvhu/search-code-mcp) | Unified high-performance MCP server combining `ripgrep` speed with `ast-grep` structural AST pattern matching and refactoring. | `TypeScript` `MCP` `ripgrep` `ast-grep` | ![Stars](https://img.shields.io/github/stars/joutvhu/search-code-mcp?style=flat-square) |
 | [**mcp-sentinel**](https://github.com/joutvhu/mcp-sentinel) | Lightweight, zero-trust Secret Vault & Security Isolation Proxy built for Model Context Protocol servers. | `Rust` `MCP` `Security` `Homebrew` | ![Stars](https://img.shields.io/github/stars/joutvhu/mcp-sentinel?style=flat-square) |
 | [**dbeaver-jdbc-mcp**](https://github.com/joutvhu/dbeaver-jdbc-mcp) | Universal MCP server connecting AI assistants directly to all configured DBeaver database connections. | `Java` `MCP Java SDK` `DBeaver` `JDBC` | ![Stars](https://img.shields.io/github/stars/joutvhu/dbeaver-jdbc-mcp?style=flat-square) |
 | [**spring-dynamic-jpa**](https://github.com/joutvhu/spring-dynamic-jpa) | Directive-based dynamic SQL/HQL templating engine seamlessly integrated into Spring Data JPA repositories. | `Java` `Spring Boot` `JPA` `Hibernate` | ![Stars](https://img.shields.io/github/stars/joutvhu/spring-dynamic-jpa?style=flat-square) |
-| [**fixed-width-parser**](https://github.com/joutvhu/fixed-width-parser) | High-speed bidirectional parser and serializer for fixed-width records and POJOs via annotations. | `Java` `Parser` `Data Serialization` | ![Stars](https://img.shields.io/github/stars/joutvhu/fixed-width-parser?style=flat-square) |
 
 ---
 
 ## 📂 Open Source Ecosystem
 
-<details>
+<details open>
   <summary><b>🤖 Model Context Protocol (MCP) & AI Infrastructure</b></summary>
   <br>
+
+- [**java-decompiler**](https://github.com/joutvhu/java-decompiler) — Universal & token-efficient Java bytecode decompiler, resource inspector, and Model Context Protocol (MCP) server for AI coding agents. Progressive inspection hierarchy (outline, callers, selective method decompilation) saving 90%+ context tokens.  
+  ![Stars](https://img.shields.io/github/stars/joutvhu/java-decompiler?style=flat-square)
+  ![Forks](https://img.shields.io/github/forks/joutvhu/java-decompiler?style=flat-square)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
+  ![MCP](https://img.shields.io/badge/MCP-server-%23000000?style=flat-square&logo=anthropic&logoColor=white)
 
 - [**search-code-mcp**](https://github.com/joutvhu/search-code-mcp) — A high-performance, unified MCP server combining the blazing speed of ripgrep (regex/text search) with the deep structural syntax awareness of ast-grep (AST pattern matching and refactoring).  
   ![Stars](https://img.shields.io/github/stars/joutvhu/search-code-mcp?style=flat-square)
@@ -311,7 +318,6 @@ If you find my open-source projects useful or have used them in your products, c
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </p>
-
 ---
 
 <div align="center">

@@ -56,7 +56,7 @@ A curated selection of highlighted open-source projects:
 
 ## 📂 Open Source Ecosystem
 
-<details open>
+<details>
   <summary><b>🤖 Model Context Protocol (MCP) & AI Infrastructure</b></summary>
   <br>
 

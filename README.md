@@ -46,6 +46,7 @@ A curated selection of highlighted open-source projects:
 
 | Project | Description | Stack | Highlights |
 | :--- | :--- | :--- | :--- |
+| [**mapigate**](https://github.com/joutvhu/mapigate) | Ultra-lightweight AI model gateway & token optimizer for AI coding assistants with smart routing, token compression, and multi-provider support. | `TypeScript` `Node.js` `AI Gateway` `CLI` | ![Stars](https://img.shields.io/github/stars/joutvhu/mapigate?style=flat-square) |
 | [**java-decompiler**](https://github.com/joutvhu/java-decompiler) | Universal & token-efficient Java bytecode decompiler, resource inspector, and MCP server for AI agents. | `Java` `MCP` `Bytecode` `CLI` `npm` | ![Stars](https://img.shields.io/github/stars/joutvhu/java-decompiler?style=flat-square) |
 | [**search-code-mcp**](https://github.com/joutvhu/search-code-mcp) | Unified high-performance MCP server combining `ripgrep` speed with `ast-grep` structural AST pattern matching and refactoring. | `TypeScript` `MCP` `ripgrep` `ast-grep` | ![Stars](https://img.shields.io/github/stars/joutvhu/search-code-mcp?style=flat-square) |
 | [**mcp-sentinel**](https://github.com/joutvhu/mcp-sentinel) | Lightweight, zero-trust Secret Vault & Security Isolation Proxy built for Model Context Protocol servers. | `Rust` `MCP` `Security` `Homebrew` | ![Stars](https://img.shields.io/github/stars/joutvhu/mcp-sentinel?style=flat-square) |
@@ -59,6 +60,14 @@ A curated selection of highlighted open-source projects:
 <details>
   <summary><b>🤖 Model Context Protocol (MCP) & AI Infrastructure</b></summary>
   <br>
+
+- [**mapigate**](https://github.com/joutvhu/mapigate) — Ultra-lightweight AI model gateway and token optimizer for AI coding assistants (Claude Code, Cursor, Cline, Codex, Copilot, Kiro). Local API gateway supporting 151+ providers with RTK token compression, smart combos & failover, multi-account rotation, and local MITM interceptor.  
+  ![Stars](https://img.shields.io/github/stars/joutvhu/mapigate?style=flat-square)
+  ![Forks](https://img.shields.io/github/forks/joutvhu/mapigate?style=flat-square)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/node.js-%236DA55F.svg?style=flat-square&logo=node.js&logoColor=white)
+  ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white)
+  ![AI Gateway](https://img.shields.io/badge/AI-Gateway-%23000000?style=flat-square&logo=openai&logoColor=white)
 
 - [**java-decompiler**](https://github.com/joutvhu/java-decompiler) — Universal & token-efficient Java bytecode decompiler, resource inspector, and Model Context Protocol (MCP) server for AI coding agents. Progressive inspection hierarchy (outline, callers, selective method decompilation) saving 90%+ context tokens.  
   ![Stars](https://img.shields.io/github/stars/joutvhu/java-decompiler?style=flat-square)
